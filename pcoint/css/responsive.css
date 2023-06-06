@@ -88,6 +88,7 @@
     }
     .mean-container .mean-bar {
         margin-top: 0px;
+        background: linear-gradient(to bottom, #57008a 0%, #ff0000 100%);
     }
     .text-bg {
         max-width: inherit;
